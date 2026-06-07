@@ -6,7 +6,7 @@ const cors = require("cors");
 
 const profileRoutes = require("./routes/profileRoutes");
 
-require("./config/db");
+// require("./config/db");
 
 
 app.use(cors());
